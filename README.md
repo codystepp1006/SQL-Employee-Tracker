@@ -19,6 +19,6 @@
 
   ## ScreenShot and Youtube Link
 
-    ![alt text](<Screenshot 2024-03-01 143858.png>)
+    (<Screenshot 2024-03-01 143858.png>)
 
     https://youtu.be/hYnwDeFPXfo
